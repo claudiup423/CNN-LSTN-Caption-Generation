@@ -31,4 +31,4 @@ For training the actual model the most important part is to finaly tune the trai
 |  --------------------------------------------------------------------------------------------- | ------ |
 | This is an image of a Hydrant which the Model predicted as expected | ![alt Hydrant](https://github.com/claudiup423/Caption-Generation/blob/main/result_images/Hydrant.png) |
 | This is an image of a Fruit basket which the Model predicted as expected | ![alt Fruit](https://github.com/claudiup423/Caption-Generation/blob/main/result_images/Fruits.png) |
-| This is one of the failed prediction the model predicts it as a train traveling however this is a construction sight| ![alt Faild Prediction](https://github.com/claudiup423/Caption-Generation/blob/main/result_images/Fruits.png) |
+| This is one of the failed prediction the model predicts it as a train traveling however this is a construction sight| ![alt Faild Prediction](https://github.com/claudiup423/Caption-Generation/blob/main/result_images/Track.png) |
