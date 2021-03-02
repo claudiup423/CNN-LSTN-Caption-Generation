@@ -27,4 +27,8 @@ For training the actual model the most important part is to finaly tune the trai
 
 ## Visualization and results
 
-![alt text](http://url/to/img.png)
+![Hydrant](http://https://github.com/claudiup423/Caption-Generation/tree/main/result_images/Hydrant.png)
+
+![Track](http://https://github.com/claudiup423/Caption-Generation/tree/main/result_images/Track.png)
+
+![Fruits](http://https://github.com/claudiup423/Caption-Generation/tree/main/result_images/Fruits.png)
